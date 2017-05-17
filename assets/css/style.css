@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+.project-name, .project-tagline, .main-content, .site-footer-credits {
+    font-family: Lato;
+}
