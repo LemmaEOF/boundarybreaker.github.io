@@ -12,5 +12,6 @@ I will not be able to take any donations through Streamlabs or Player.me.
 
 If you wish to support me, please visit my
 [Patreon](http://patreon.com/b0undarybreaker), my
+[Liberapay](http://liberapay.com/b0undarybreaker), my
 [Venmo](https://venmo.com/B0undarybreaker), or on Square Cash as
 $B0undarybreaker.
